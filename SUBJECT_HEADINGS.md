@@ -149,26 +149,68 @@
 - Queue using Two Stacks
 
 ## Trees
-- Binary Tree Concepts
-- Tree Representations
-- Tree Traversals
-  - Preorder
-  - Inorder
-  - Postorder
-  - Level Order
-- Binary Tree Operations
-- Binary Search Trees (BST)
-  - Insertion
-  - Deletion
-  - Searching
-  - Traversal
-- AVL Trees
-  - Rotations (LL, LR, RL, RR)
-  - Insertion
-  - Deletion
+- Terminology
+- Number of Binary Trees using N Nodes
+- Height vs Nodes in Binary Tree
+- Internal Nodes vs External Nodes in Binary Tree
+- Strict Binary Tree
+- Height vs Node of Strict Binary Tree
+- Internal vs External Nodes of Strict Binary Trees
+- n-ary Trees
+- Analysis of n-Ary Trees
+- Representation of Binary Tree
+- Linked Representation of Binary Tree
+- Full vs Complete Binary Tree
+- Strict vs Complete Binary Tree
+- Binary Tree Traversals
+- Binary Tree Traversal Easy Method 1
+- Binary Tree Traversal Easy Method 2
+- Binary Tree Traversal Easy Method 3
+- Creating Binary Tree
+- Program to Create Binary Tree
+- Let's Code Creating Binary Tree
+- Let's Code Creating Binary Tree in C++
+- Preorder Tree Traversal
+- Inorder Tree Traversals Functions
+- Iterative Preorder
+- Iterative Inorder
+- Let's Code Iterative Traversals
+- Level Order Traversal
+- Let's Code Level Order Traversal
+- Can we Generate Tree from Traversals
+- Generating Tree from Traversals
+- Height and Count of Binary Tree
+- Let's Code Height and Count
+
+## Binary Search Trees (BST)
+- BST Properties and Rules
+- Basic Operations
+  - Searching (Iterative/Recursive)
+  - Insertion and Deletion
+  - Finding Minimum/Maximum
+- Performance Analysis
+  - Best/Worst/Average Case
+  - Imbalance Problems
+
+## AVL Trees
+- AVL Properties and Balance Factor
+- Balancing Operations
+  - Single Rotations (Left/Right)
+  - Double Rotations (LR/RL)
+- Basic Operations and Balancing
+  - Insertion and Balancing
+  - Deletion and Balancing
+- Performance Characteristics
+
+## Advanced Search Trees
 - Red-Black Trees
-- 2-3 Trees
+  - Basic Properties and Color Rules
+  - Balancing Operations
+- Splay and 2-3 Trees
+  - Basic Properties
+  - Use Cases
 - 2-3-4 Trees
+- Red Black Trees vs 2-3-4 Trees
 
 ## Heap
 - Introduction to Heap
