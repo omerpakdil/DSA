@@ -1,0 +1,3 @@
+/home/omer/Personal/InterviewPrep/DSA/Week1-2_CPP_Fundamentals/02_Memory_Management/build/CMakeFiles/memory_examples.dir
+/home/omer/Personal/InterviewPrep/DSA/Week1-2_CPP_Fundamentals/02_Memory_Management/build/CMakeFiles/edit_cache.dir
+/home/omer/Personal/InterviewPrep/DSA/Week1-2_CPP_Fundamentals/02_Memory_Management/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/oop_ornekleri.dir/oop_examples.cpp.o -o oop_ornekleri 

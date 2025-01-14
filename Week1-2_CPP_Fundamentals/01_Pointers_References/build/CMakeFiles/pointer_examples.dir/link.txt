@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pointer_examples.dir/pointer_examples.cpp.o -o pointer_examples 
